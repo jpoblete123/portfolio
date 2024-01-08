@@ -1,3 +1,8 @@
+#Author: Jeremiah Poblete
+#Course: Python IS-2053
+
+#Description: Program allows user to create a character using classes, character customization and random number generation.
+
 #Random function that allows for the use of random variables
 import random
 
