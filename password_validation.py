@@ -1,4 +1,4 @@
-#Author: Jeremiah Poblete
+#Author: Jeremiah Poblete 
 #Course: Python IS-2053
 
 #Description: Password Validation using Regular Expression
